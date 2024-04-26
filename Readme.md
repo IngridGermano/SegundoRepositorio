@@ -1,0 +1,1 @@
+Olá, segundo teste pra iniciar o repositório. Lembrando que esse processo vai ter que ser feito sempre que precisar criar um novo repositório (pasta).
